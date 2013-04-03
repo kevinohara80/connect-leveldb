@@ -7,6 +7,8 @@ lib-cov
 *.pid
 *.gz
 
+.sess
+
 pids
 logs
 results

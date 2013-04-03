@@ -22,7 +22,9 @@
   "gitHead": "8561b56263a7c54962820456ee3b72b76d809387",
   "devDependencies": {
     "should": "~1.2.2",
-    "mocha": "~1.8.2"
+    "mocha": "~1.8.2",
+    "connect": "~2.7.4",
+    "rimraf": "~2.1.4"
   },
   "dependencies": {
     "levelup": "~0.6.2"
