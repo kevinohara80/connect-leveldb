@@ -1,0 +1,30 @@
+{
+  "name": "connect-leveldb",
+  "version": "0.0.0",
+  "description": "a connect session store implementation for leveldb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevinohara80/connect-leveldb.git"
+  },
+  "keywords": [
+    "connect",
+    "session",
+    "store",
+    "leveldb"
+  ],
+  "author": "Kevin O'Hara",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8561b56263a7c54962820456ee3b72b76d809387",
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.8.2"
+  },
+  "dependencies": {
+    "levelup": "~0.6.2"
+  }
+}
